@@ -61,7 +61,8 @@ node app.js
 ---
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./MAJORPROJECT/screenshots/home.png)
+
 
 ---
 
