@@ -32,8 +32,9 @@ Other Tools: Joi, Connect-Flash, Express-Session, Dotenv
 ---
 
 
-⚙️ Installation & Setup (Local)
+# ⚙️ Installation & Setup (Local)
 
+---
 
 # Clone the repo
 git clone https://github.com/Kaustubh1644/wanderLust.git
