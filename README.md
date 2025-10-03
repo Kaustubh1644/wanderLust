@@ -10,33 +10,33 @@ Users can create, view, and review listings with interactive maps, secure authen
 
 ✨ Features
 
-🔑 Authentication & Authorization – Secure login & user sessions with Passport.js
-🏡 Property Listings – Create, edit, and delete travel listings
-🖼️ Image Uploads – Store and serve images using Cloudinary + Multer
-🗺️ Interactive Maps – Explore locations with Mapbox integration
-💬 Review System – Add, view, and delete reviews & ratings
-📱 Responsive UI – Mobile & desktop-friendly (Bootstrap + EJS)
+🔑 Authentication & Authorization – Secure login & user sessions with Passport.js  
+🏡 Property Listings – Create, edit, and delete travel listings  
+🖼️ Image Uploads – Store and serve images using Cloudinary + Multer  
+🗺️ Interactive Maps – Explore locations with Mapbox integration  
+💬 Review System – Add, view, and delete reviews & ratings  
+📱 Responsive UI – Mobile & desktop-friendly (Bootstrap + EJS)  
 
 🛠 Tech Stack
 
-Frontend: EJS, Bootstrap, JavaScript
-Backend: Node.js, Express.js
-Database: MongoDB Atlas + Mongoose
-Authentication: Passport.js
-Image Hosting: Cloudinary
-Maps & Geolocation: Mapbox
-Other Tools: Joi, Connect-Flash, Express-Session, Dotenv
+Frontend: EJS, Bootstrap, JavaScript  
+Backend: Node.js, Express.js  
+Database: MongoDB Atlas + Mongoose  
+Authentication: Passport.js  
+Image Hosting: Cloudinary  
+Maps & Geolocation: Mapbox  
+Other Tools: Joi, Connect-Flash, Express-Session, Dotenv  
 
 ⚙️ Installation & Setup (Local)
 
+```bash
 # Clone the repo
-
 git clone https://github.com/Kaustubh1644/wanderLust.git
 cd wanderLust
 
 # Install dependencies
-
 npm install
+
 
 
 Create a .env file in the root with:
@@ -47,12 +47,53 @@ CLOUD_API_SECRET=your_cloudinary_secret
 MAP_TOKEN=your_mapbox_token  
 ATLASDB_URL=your_mongodb_url  
 SECRET=your_session_secret  
+ 
 
 
 Run the app:
 
 node app.js
 
-📌 Note
+
+## 📸 Screenshots
+
+
+---
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+---
+
+### 🔐 Signup Page
+![Signup Page](./screenshots/signup.png)
+
+---
+
+### 🔑 Login Page
+![Login Page](./screenshots/login.png)
+
+---
+
+### 🏡 Create New Listing
+![Create New Listing](./screenshots/CreateNewList.png)
+
+---
+
+### ✏️ Edit Listing
+![Editing List](./screenshots/EditingList.png)
+
+---
+
+### 🗺 Map Integration
+![Map Integration](./screenshots/MapIntegration.png)
+
+---
+
+### ⭐ Review Section
+![Review Section](./screenshots/ReviewSection.png)
+
+---
+
 
 ✨ Wanderlust is a learning project, built to practice full-stack development skills inspired by Airbnb.
