@@ -29,7 +29,7 @@ Other Tools: Joi, Connect-Flash, Express-Session, Dotenv
 
 ⚙️ Installation & Setup (Local)
 
-```bash
+
 # Clone the repo
 git clone https://github.com/Kaustubh1644/wanderLust.git
 cd wanderLust
