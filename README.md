@@ -32,6 +32,7 @@ Other Tools: Joi, Connect-Flash, Express-Session, Dotenv
 
 # Clone the repo
 git clone https://github.com/Kaustubh1644/wanderLust.git
+
 cd wanderLust
 
 # Install dependencies
