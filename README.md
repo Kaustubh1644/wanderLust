@@ -2,7 +2,7 @@
 
 A full-stack travel listing web application inspired by Airbnb.
 Users can create, view, and review listings with interactive maps, secure authentication, and image uploads.
-
+---
 ## 🚀 Live Demo  
 
 🔗 [Wanderlust on Render](https://wanderlust-fawl.onrender.com/listings)
@@ -17,6 +17,8 @@ Users can create, view, and review listings with interactive maps, secure authen
 💬 Review System – Add, view, and delete reviews & ratings  
 📱 Responsive UI – Mobile & desktop-friendly (Bootstrap + EJS)  
 
+---
+
 🛠 Tech Stack
 
 Frontend: EJS, Bootstrap, JavaScript  
@@ -26,6 +28,9 @@ Authentication: Passport.js
 Image Hosting: Cloudinary  
 Maps & Geolocation: Mapbox  
 Other Tools: Joi, Connect-Flash, Express-Session, Dotenv  
+
+---
+
 
 ⚙️ Installation & Setup (Local)
 
