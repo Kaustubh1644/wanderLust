@@ -57,44 +57,43 @@ node app.js
 
 ## 📸 Screenshots
 
-
 ---
 
 ### 🏠 Home Page
-![Home Page](./MAJORPROJECT/screenshots/home.png)
-
+![Home Page](screenshots/home.png)
 
 ---
 
 ### 🔐 Signup Page
-![Signup Page](./screenshots/signup.png)
+![Signup Page](screenshots/signup.png)
 
 ---
 
 ### 🔑 Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](screenshots/login.png)
 
 ---
 
 ### 🏡 Create New Listing
-![Create New Listing](./screenshots/CreateNewList.png)
+![Create New Listing](screenshots/CreateNewList.png)
 
 ---
 
 ### ✏️ Edit Listing
-![Editing List](./screenshots/EditingList.png)
+![Editing List](screenshots/EditingList.png)
 
 ---
 
 ### 🗺 Map Integration
-![Map Integration](./screenshots/MapIntegration.png)
+![Map Integration](screenshots/MapIntegration.png)
 
 ---
 
 ### ⭐ Review Section
-![Review Section](./screenshots/ReviewSection.png)
+![Review Section](screenshots/ReviewSection.png)
 
 ---
+
 
 
 ✨ Wanderlust is a learning project, built to practice full-stack development skills inspired by Airbnb.
