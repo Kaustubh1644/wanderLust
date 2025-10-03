@@ -40,7 +40,7 @@ npm install
 
 
 
-Create a .env file in the root with:
+# Create a .env file in the root with:
 
 CLOUD_NAME=your_cloudinary_name  
 CLOUD_API_KEY=your_cloudinary_key  
@@ -51,7 +51,7 @@ SECRET=your_session_secret
  
 
 
-Run the app:
+# Run the app:
 
 node app.js
 
